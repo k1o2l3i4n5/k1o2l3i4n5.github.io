@@ -1,5 +1,3 @@
-
-
 <style>
   .redtext{
   color:red
