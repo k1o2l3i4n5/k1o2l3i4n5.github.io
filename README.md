@@ -16,5 +16,5 @@
   
 
 </style>
-<marquee direction="right" height="30" scrollamount="3" behavior="alternate" bgcolor="blue"><h class="redtext" >Dwayne Wade</h></marquee>
+<marquee direction="right" height="150" scrollamount="3" behavior="alternate" bgcolor="blue"><h class="redtext" >Dwayne Wade</h></marquee>
 <p class="bluetext">welcome</p>
