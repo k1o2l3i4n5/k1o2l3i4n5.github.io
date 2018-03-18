@@ -6,4 +6,4 @@
 
 </style>
 
-<h class="redtext">D.wade</h>  
+<h2 class="redtext">D.wade</h2>  
