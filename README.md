@@ -2,6 +2,9 @@
   .redtext{
   color:red;
   }
+  .bluetext{
+  color:blue;
+  }
   
   p{
   font-size:32px;
@@ -10,5 +13,5 @@
 
 </style>
 
-<h class="redtext">D.wade</h>  
-<p>welcome</p>
+<h1 class="redtext">D.wade</h1>  
+<p class="bluetext">welcome</p>
