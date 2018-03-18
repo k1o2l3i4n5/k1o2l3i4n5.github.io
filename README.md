@@ -23,7 +23,7 @@
 
 
 <marquee direction="right" height="150" scrollamount="3" behavior="alternate" bgcolor="blue"><h class="redtext" >Dwayne Wade</h></marquee>
-<img src="https://ppt.cc/fXGQyx" class="smallimage" alt="hello">
+<img src="https://raw.githubusercontent.com/k1o2l3i4n5/k1o2l3i4n5.github.io/master/dwyane-wade.png" class="smallimage" alt="hello">
 <p>球員介紹</p>
 <ol>
   <li>英文全名:Dwyane Tyrone Wade, Jr.</li>
