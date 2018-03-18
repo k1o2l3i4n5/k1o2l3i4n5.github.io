@@ -6,8 +6,8 @@
   color:blue;
   }
   .smallimage{
-  width:100px;
-  height:100px;
+  width:200px;
+  height:30000px;
   }
   
   h{
@@ -22,4 +22,8 @@
 </style>
 <marquee direction="right" height="150" scrollamount="3" behavior="alternate" bgcolor="blue"><h class="redtext" >Dwayne Wade</h></marquee>
 <img src="https://ppt.cc/fXGQyx" class="smallimage">
-<p class="bluetext">welcome</p>
+<p >球員介紹</p>
+<ol>
+  <li>英文全名:Dwyane Tyrone Wade, Jr.</li>
+  <li>所屬隊伍:邁阿密熱火</li>
+</ol>
