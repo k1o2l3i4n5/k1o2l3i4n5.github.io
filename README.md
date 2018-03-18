@@ -30,5 +30,7 @@
   <li>所屬隊伍:邁阿密熱火</li>
   <li>生涯成就:3次NBA總冠軍、1次NBA總冠軍賽最有價值球員、1次NBA全明星賽最有價值球員、1次例行賽得分王、1次《運動畫刊》的年度最佳運動員</li>
 </ol> 
-<a href="https://www.youtube.com/watch?v=5T4xVmiOJwg" target=" blank" title="生涯高光">生涯高光</a> 
-
+<a href="https://www.youtube.com/watch?v=5T4xVmiOJwg" target=" blank" title="生涯高光">生涯高光</a><br>
+<font color:"yellow">代言球鞋:李寧way of wade</font>
+<img src="https://raw.githubusercontent.com/k1o2l3i4n5/k1o2l3i4n5.github.io/master/%E4%B8%8B%E8%BC%89%20(1).jpg" alt="wayofwade">
+<img src="https://raw.githubusercontent.com/k1o2l3i4n5/k1o2l3i4n5.github.io/master/%E4%B8%8B%E8%BC%89.jpg" alt="wayofwade">
