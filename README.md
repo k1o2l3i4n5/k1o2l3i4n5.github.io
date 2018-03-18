@@ -30,5 +30,5 @@
   <li>所屬隊伍:邁阿密熱火</li>
   <li>生涯成就:3次NBA總冠軍、1次NBA總冠軍賽最有價值球員、1次NBA全明星賽最有價值球員、1次例行賽得分王、1次《運動畫刊》的年度最佳運動員</li>
 </ol> 
-<a href="https://www.youtube.com/watch?v=5T4xVmiOJwg" target=" blank" title="生涯高光">生涯高光</a>
+<a href="https://www.youtube.com/watch?v=5T4xVmiOJwg" target=" blank" title="生涯高光">生涯高光</a> 
 
