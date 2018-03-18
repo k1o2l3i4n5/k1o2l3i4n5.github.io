@@ -7,7 +7,7 @@
   }
   .smallimage{
   width:200px;
-  height:30000px;
+  height:300px;
   }
   
   h{
