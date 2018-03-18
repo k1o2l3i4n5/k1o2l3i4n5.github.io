@@ -6,6 +6,9 @@
   color:blue;
   }
   
+  h{
+  font-size:128px;
+  }
   p{
   font-size:32px;
   }
@@ -13,5 +16,5 @@
 
 </style>
 
-<h1 class="redtext">D.wade</h1>  
+<h class="redtext">D.wade</h>  
 <p class="bluetext">welcome</p>
