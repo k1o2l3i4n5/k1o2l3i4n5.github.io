@@ -1,7 +1,7 @@
 <style>
   .redtext{
   color:red;
-  font-size:16px;
+  font-size:32px;
   }
   
 
