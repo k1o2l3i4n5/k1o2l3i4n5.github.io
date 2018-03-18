@@ -10,5 +10,5 @@
 
 </style>
 
-<h1 class="redtext" font-size:128px>D.wade</h1>  
+<h class="redtext">D.wade</h>  
 <p>welcome</p>
