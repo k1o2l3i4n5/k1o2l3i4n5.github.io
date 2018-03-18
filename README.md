@@ -1,4 +1,4 @@
-<body bgcolor="black">
+
 <style>
   .redtext{
   color:red;
@@ -21,6 +21,8 @@
   
 
 </style>
+<body bgcolor="black">
+</body>
 <marquee direction="right" height="150" scrollamount="3" behavior="alternate" bgcolor="blue"><h class="redtext" >Dwayne Wade</h></marquee>
 <img src="https://ppt.cc/fXGQyx" class="smallimage">
 <p>球員介紹</p>
