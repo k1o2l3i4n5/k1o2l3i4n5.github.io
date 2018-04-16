@@ -50,4 +50,4 @@
 <u style="color:green">代言球鞋:李寧way of wade</u>
 <button id="b1">1</button>
 <button id="b2">2</button>
-<img id="i1" src="https://raw.githubusercontent.com/k1o2l3i4n5/k1o2l3i4n5.github.io/master/%E4%B8%8B%E8%BC%89%20(1).jpg" alt="wayofwade"></img>
+<img id="i1" src="https://raw.githubusercontent.com/k1o2l3i4n5/k1o2l3i4n5.github.io/master/%E4%B8%8B%E8%BC%89%20(1).jpg" alt="wayofwade">
