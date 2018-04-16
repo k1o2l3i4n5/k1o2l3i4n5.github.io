@@ -1,3 +1,19 @@
+<script>
+  $(document).ready(function() {
+            $("#b1").click(function()
+				{
+					$("#i1").attr('src','https://raw.githubusercontent.com/k1o2l3i4n5/k1o2l3i4n5.github.io/master/%E4%B8%8B%E8%BC%89.jpg');
+			    });
+
+			$("#b2").click(function()
+				{
+					$("#i1").attr('src','https://raw.githubusercontent.com/k1o2l3i4n5/k1o2l3i4n5.github.io/master/%E4%B8%8B%E8%BC%89%20(1).jpg');
+			    });
+  
+   });
+</script>
+
+
 <style>
   .redtext{
   color:red;
@@ -32,5 +48,7 @@
 </ol> 
 <a href="https://www.youtube.com/watch?v=5T4xVmiOJwg" target=" blank" title="生涯高光">生涯高光</a><br>
 <u style="color:green">代言球鞋:李寧way of wade</u>
-<img src="https://raw.githubusercontent.com/k1o2l3i4n5/k1o2l3i4n5.github.io/master/%E4%B8%8B%E8%BC%89%20(1).jpg" alt="wayofwade">
-<img src="https://raw.githubusercontent.com/k1o2l3i4n5/k1o2l3i4n5.github.io/master/%E4%B8%8B%E8%BC%89.jpg" alt="wayofwade">
+<button id="b1">1</button>
+<button id="b2">2</button>
+<img id="i1" src="https://raw.githubusercontent.com/k1o2l3i4n5/k1o2l3i4n5.github.io/master/%E4%B8%8B%E8%BC%89%20(1).jpg" alt="wayofwade">
+
